@@ -1,0 +1,65 @@
+{
+  "users": {
+    "admin": {
+      "password": "123",
+      "saldo": 79.34
+    }
+  },
+  "compras": {
+    "1769804023": {
+      "username": "admin",
+      "port": "COM10",
+      "numero": "+5528999122533",
+      "servico": "whatsapp",
+      "preco": 15.46,
+      "codigo_sms": "552784",
+      "usado": true,
+      "demo": false,
+      "timestamp": "2026-01-30T17:13:43.908283"
+    },
+    "1770389097": {
+      "username": "admin",
+      "port": "demo_0",
+      "numero": "+5511999123456",
+      "servico": "gmail",
+      "preco": 1.3,
+      "codigo_sms": null,
+      "usado": false,
+      "demo": true,
+      "timestamp": "2026-02-06T11:44:57.341843"
+    },
+    "1771329566": {
+      "username": "admin",
+      "port": "demo_0",
+      "numero": "+5511999123456",
+      "servico": "gmail",
+      "preco": 1.3,
+      "codigo_sms": null,
+      "usado": false,
+      "demo": true,
+      "timestamp": "2026-02-17T08:59:26.761709"
+    },
+    "1771329670": {
+      "username": "admin",
+      "port": "demo_0",
+      "numero": "+5511999123456",
+      "servico": "gmail",
+      "preco": 1.3,
+      "codigo_sms": null,
+      "usado": false,
+      "demo": true,
+      "timestamp": "2026-02-17T09:01:10.931204"
+    },
+    "1771329675": {
+      "username": "admin",
+      "port": "demo_1",
+      "numero": "+5511999123456",
+      "servico": "gmail",
+      "preco": 1.3,
+      "codigo_sms": null,
+      "usado": false,
+      "demo": true,
+      "timestamp": "2026-02-17T09:01:15.778952"
+    }
+  }
+}
