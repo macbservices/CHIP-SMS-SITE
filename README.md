@@ -24,10 +24,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/macbservices/chip-sync-connect.git
+git clone https://github.com/macbservices/CHIP-SMS-SITE.git
 
 # Step 2: Navigate to the project directory.
-cd chip-sync-connect
+cd CHIP-SMS-SITE
 
 # Step 3: Install the necessary dependencies.
 npm i
